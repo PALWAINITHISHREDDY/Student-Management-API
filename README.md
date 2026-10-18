@@ -88,7 +88,7 @@ Run the API locally and use the Swagger UI at `/docs` to test each endpoint.
 
 ## Author
 
-Nithish Reddy
+Palwai Nithish Reddy
 
 ## License
 
